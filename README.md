@@ -2,7 +2,7 @@
 
 Demo app just to get idToken from Firebase Authentication with multiple providers.
 
-1. You need to create [`public/firebase.js`]($publicfirebasejs) and input the necessary information.
+1. You need to create `public/firebase.js` and input the necessary information.
 2. `npm install`
 3. `npm start`
 4. Access to 'http://localhost:4000'
